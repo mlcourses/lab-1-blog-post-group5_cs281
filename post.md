@@ -21,7 +21,7 @@ This lab introduces the hardware environment used in the course, focusing on the
 - IC data sheets
 - Wires and connection tools
 
-<img src="./assets/Wiring_kit.png" alt="arduino_kit" height="450" width="500"/>
+<img src="./assets/wiring_kit.png" alt="arduino_kit" height="450" width="500"/>
 
 - Logic Probe
 - Arduino IDE software
