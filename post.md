@@ -105,7 +105,7 @@ This lab introduces the hardware environment used in the course, focusing on the
 
 #### 1. Understanding the inverter: 
 
-<img src="./assets/7404.png" alt="Alt text for your GIF" height="450" width="500"/>
+<img src="./assets/7404.png" alt="Alt text for your GIF" height="450" width="570"/>
 
 - Above is the top view of the 7404 inverter (our logic NOT gate) with six individual inverters, each with an input and an output. 
 
