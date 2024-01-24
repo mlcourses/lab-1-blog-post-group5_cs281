@@ -288,7 +288,7 @@ void loop() {
 
 ##### 2. Changing the Arduino's variable values: 
 
-<img src="./assets/IDE.png" alt="Alt text for IDE" height="400" width="800"/>
+<img src="./assets/IDE.png" alt="Alt text for IDE" height="400" width="650"/>
 
 - For the last testing cases, we are changing the value of the variables in the Arduino's code, particularly `P` and `A`. This means that the pin position on the Arduino board is now slot 20 instead of 13. Below are two different circuit behaviors with the logic switch S2 off and on.
 
