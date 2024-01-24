@@ -265,7 +265,7 @@ void loop() {
 
 -  This circuit has a variety of outcomes depending on the logic switches **S1** and **S2** that act as the power supplies for the two inputs **1A** and **1B**. See the gif below to see all the outcomes:
 
-<img src="./assets/demo_4.gif" alt="Alt text for your GIF" height="360" width="500"/>
+<img src="./assets/demo_4.gif" alt="Alt text for your GIF" height="500" width="500"/>
 
 - From the footage above, we can see that the only time the output is high voltage was when both the inputs are of high voltage. The remaining sets of inputs all results in a low voltage output. Here are the sets of outcomes:
 
@@ -282,7 +282,7 @@ void loop() {
 
 - In the fifth demo we have already seen how the LED logic indicator lights behaved when the logic switch S2 is on. Now we are going to see how the circuit behaves when we switch off the S2 logic switch: 
 
-<img src="./assets/demo_5s.gif" alt="Alt text for your GIF" height="500" width="500"/>
+<img src="./assets/demo_5s.gif" alt="Alt text for your GIF" height="500" width="600"/>
 
 - As you can see, when we turn off the logic switch S2, the LED light of the input 1B of the inverter indicates low voltage while the light of the input 1A that connects to pin 13 of the Arduino stays the same. However, the biggest difference is that the output now stays constant of low voltage instead of changing like when the switch S2 is on. 
 
