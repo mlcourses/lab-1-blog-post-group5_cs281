@@ -265,7 +265,7 @@ void loop() {
 
 -  This circuit has a variety of outcomes depending on the logic switches **S1** and **S2** that act as the power supplies for the two inputs **1A** and **1B**. See the gif below to see all the outcomes:
 
-<img src="./assets/demo_4.gif" alt="Alt text for your GIF" height="500" width="500"/>
+<img src="./assets/demo_4.gif" alt="Alt text for your GIF" height="500" width="550"/>
 
 - From the footage above, we can see that the only time the output is high voltage was when both the inputs are of high voltage. The remaining sets of inputs all results in a low voltage output. Here are the sets of outcomes:
 
